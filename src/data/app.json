@@ -1,0 +1,100 @@
+{
+    "settings": {
+        "siteName": "Hadid",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        }
+    },
+    "header": {
+        "logo": {
+            "symbol": "H.",
+            "link": "/"
+        },
+        "menu": [
+            {
+                "label": "خانه",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "نمونه کارها",
+                "link": "/projects",
+                "children": 0
+            },
+            {
+                "label": "خدمات ما",
+                "link": "/services",
+                "children": 0
+            },
+            {
+                "label": "وبلاگ",
+                "link": "/blog",
+                "children": 0
+            },
+            {
+                "label": "تماس با ما",
+                "link": "/contact",
+                "children": 0
+            },
+            {
+                "label": "تیم ما",
+                "link": "/team",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "logo": {
+            "text": "H."
+        },
+        "menu": [
+            {
+                "label": "خانه",
+                "link": "/"
+            },
+            {
+                "label": "نمونه کارها",
+                "link": "/projects"
+            },
+            {
+                "label": "خدمات ما",
+                "link": "/services"
+            },
+            {
+                "label": "تماس با ما",
+                "link": "/contact"
+            },
+            {
+                "label": "وبلاگ",
+                "link": "/blog"
+            },
+            {
+                "label": "تیم ما",
+                "link": "/team"
+            }
+        ]
+    },
+    "social": [
+        {
+            "link": "https://behance.net",
+            "icon": "fab fa-behance",
+            "title": "Behance"
+        },
+        {
+            "link": "https://dribbble.com",
+            "icon": "fab fa-dribbble",
+            "title": "Dribbble"
+        },
+        {
+            "link": "https://twitter.com",
+            "icon": "fab fa-twitter",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://github.com",
+            "icon": "fab fa-github",
+            "title": "Github"
+        }
+    ]
+}
